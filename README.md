@@ -113,7 +113,7 @@ Cada kWh gerenciado de forma eficiente pelo ChargeGrid representa uma redução 
 ```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/chargegrid-intelligence.git
-cd chargegrid-intelligence
+cd sprint2-sers-pcp
 
 # Execute a simulação
 python3 main.py
