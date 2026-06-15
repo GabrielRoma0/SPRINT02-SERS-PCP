@@ -227,7 +227,7 @@ def gerar_relatorio(sessoes):
 
     separador()
     print(f"\n  Simulação concluída em {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
-    print(f"  ChargeGrid Intelligence — FIAP x GoodWe 2026\n")
+    print(f"  GTLF — FIAP x GoodWe 2026\n")
 
 
 # ─────────────────────────────────────────────
